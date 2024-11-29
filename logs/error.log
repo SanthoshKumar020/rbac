@@ -1,0 +1,8 @@
+{"level":"error","message":"Registration error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2024-11-29T10:22:08.792Z"}
+{"level":"error","message":"Registration error: Unknown column 'role' in 'field list'","timestamp":"2024-11-29T10:22:51.251Z"}
+{"level":"error","message":"Registration error: Unknown column 'role' in 'field list'","timestamp":"2024-11-29T10:23:34.989Z"}
+{"level":"error","message":"Registration error: Unknown column 'role' in 'field list'","timestamp":"2024-11-29T10:23:38.234Z"}
+{"level":"error","message":"Login error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2024-11-29T10:26:34.546Z"}
+{"level":"error","message":"Authorization error: Role User not allowed to access /users/","timestamp":"2024-11-29T10:28:10.961Z"}
+{"level":"error","message":"Authentication error: invalid signature","timestamp":"2024-11-29T10:29:51.670Z"}
+{"level":"error","message":"Error creating role: Incorrect integer value: 'view_users' for column 'permission_id' at row 1","timestamp":"2024-11-29T10:33:53.728Z"}

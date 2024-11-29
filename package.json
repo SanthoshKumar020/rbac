@@ -1,0 +1,27 @@
+{
+  "name": "rbac-assignment",
+  "version": "1.0.0",
+  "description": "RBAC Assignment for Authentication and Authorization",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.2.0",
+    "nodemailer": "^6.9.3",
+    "sequelize": "^6.28.0",
+    "winston": "^3.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
